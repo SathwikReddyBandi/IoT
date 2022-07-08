@@ -4,7 +4,7 @@ IoT Research Teaser at IIIT Hyderabad [2022]
 
 1.	DHT11 Temperature & Humidity sensor on NodeMCU [2022]
 
-    * Shows the temperature and humidity of the room through ThingSpeak.
+   * Shows the temperature and humidity of the room through ThingSpeak.
 
 2.	LED Blink control using BLYNK application [2022]
 
