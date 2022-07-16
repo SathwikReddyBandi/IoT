@@ -19,5 +19,5 @@ IoT Research Teaser at IIIT Hyderabad [2022]
    * Measure the water level in the container.
 
 5.		Fire Alarm System (Final)
-
-   * Gets the alert notification through Blynk when the fire is detected.
+ 
+  * Gets the alert notification through Blynk when the fire is detected.
